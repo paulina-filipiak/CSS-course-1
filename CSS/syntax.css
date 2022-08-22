@@ -1,11 +1,4 @@
-a{
-    color: darkslategray;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-a:hover{
-    color: coral;
-    text-decoration: underline;
-    background-color: darkslategrey;
+p{
+    font-size: 12px;
+    letter-spacing: 10px;
 }
