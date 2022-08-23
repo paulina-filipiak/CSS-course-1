@@ -1,9 +1,15 @@
-.static-width {
-    width: 500px;
-    height: 500px;
-    background-color: mistyrose;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Windows_Settings_app_icon.png/1024px-Windows_Settings_app_icon.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 300px;
+#banner{
+    background-color: aquamarine;
+    width: 100%;
+    height: 300px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Windows_Settings_app_icon.png/1024px-Windows_Settings_app_icon.png) , url(https://media.istockphoto.com/photos/dark-blue-minimal-texture-banner-with-space-for-text-word-or-product-picture-id1224392306?b=1&k=20&m=1224392306&s=170667a&w=0&h=lpDpUrttCoFDMhGQ1GJyyxIHE78s3xoMUzkawP5n4Y4=);
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, center;
+    background-size: 200px, 100%;
+
 }
+
+/*
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwS70r6aZEg6-wofSf66x7MU7FiZSEFSOIQA&usqp=CAU
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Windows_Settings_app_icon.png/1024px-Windows_Settings_app_icon.png
+ */
