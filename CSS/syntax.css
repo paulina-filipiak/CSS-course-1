@@ -1,24 +1,19 @@
-a{
-    padding: 10px;
-    margin: 10px;
-    background-color: blueviolet;
-    border: 1px solid #aaa;
-    color: #000;
-    text-decoration: none;
-    display: inline-block;
-
+#main-content div{
+    background-color:aquamarine;
+    margin: 0 0 20px 0;
 }
 
-.block{
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid #000;
+.static-width{
+    width: 300px;
+    height: 100px;
 }
 
-.Inline{
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid #000;
+.percentage-width{
+    width: 70%;
+    height: 50px;
+}
+
+.inline-block{
+    width: 40%;
     display: inline-block;
 }
-
